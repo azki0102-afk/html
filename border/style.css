@@ -1,0 +1,21 @@
+buton{
+    border: none;
+}
+.card{
+    width: 300px;
+    background-color: rgb(28, 28, 29);
+    border-radius: 8px;
+}
+
+.card img{
+    width: 20%;
+    border-radius: 8px;
+}
+.card a{
+    width: 100%;
+    text-decoration: none;
+    background-color: aqua;
+    color: black;
+    border: 8px;
+    padding-right: 12px;
+}
