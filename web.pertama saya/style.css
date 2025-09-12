@@ -9,7 +9,7 @@ body{
 .container{
     width: 800px;
     margin: auto;
-    background-color: rgb(255, 251, 0);
+    background-color: rgb(34, 204, 0);
     padding: 10px;
 }
 header.h1{
@@ -21,22 +21,50 @@ nav ul li{
 }
 li a{
     text-decoration: none;
-    color: purple;
+    color: rgb(0, 0, 0);
     font-weight: bold;
     transition: ease-in-out 0.3s;
 }
 
 li a:hover{
-    color: rgb(202, 253, 16);
-    background-color: rgb(20, 20, 19);
+    color: rgb(0, 0, 0);
+    background-color: rgb(0, 255, 34);
     padding: 5px;
     border-radius: 10px;
 }
 .gambar{
     width: 100%;
     height: 300px;
-    background-image:url(../S15_YANO_052.jpg);
-    background-size: cover;
+    background-image: url(../kawasan-bundaran-hi-2_169.jpeg);
+    background-size: center;
     background-position:  center;
-    margin: 30px 0 30px 0;
+    margin: 10px 0 10px 0;
+}
+header{
+    padding: 15px:
+}
+main{
+    padding: 15px:
+}
+h2{
+    margin: ;
+    font-weight: normal;
+    color: black;
+}
+h3{
+    font-weight: bold;
+    color: rgb(0, 199, 33);
+}
+p{
+    margin border-bottom: 10px;
+    line-height: 1.5;
+    font-size; 10px;
+}
+footer{
+    width: 100px;
+    height: 50px;
+    background-color: green;
+    color: black;
+    padding: 10px;
+    text-align: center;
 }
