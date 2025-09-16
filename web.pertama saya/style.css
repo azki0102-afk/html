@@ -40,6 +40,12 @@ li a:hover{
     background-position:  center;
     margin: 10px 0 10px 0;
 }
+.container{
+    width: 600px;
+   margin: auto;
+   margin: auto;
+   position: relative;
+}
 header{
     padding: 15px:
 }
@@ -67,4 +73,10 @@ footer{
     color: black;
     padding: 10px;
     text-align: center;
+}
+
+img{
+    position: absolute;
+    right: 0;
+    top: 0;
 }
