@@ -1,0 +1,32 @@
+/*
+flexbox :
+.1 flex-direction
+.2 justify = center , flex.start,flex-end
+       space around
+       space-between
+       space-evenly
+.3 alingnitems = center
+             flex-start
+             flex-end
+             stretch
+             baselline
+             normal
+*/
+
+.container {
+  border: 1px solid black;
+  width: 600px;
+  display: flex;
+  justify-content: space-around;
+  align-content: end;
+  justify-content: flex;
+  flex-direction: center;
+  align-items: end;
+}
+.kotak {
+  width: 50px;
+  height: 50px;
+  color: white;
+  font: bold;
+  background-color: rgb(233, 0, 0);
+}
