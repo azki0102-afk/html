@@ -10,7 +10,7 @@ header {
 
   width: 100%;
   height: 80px;
-  color: rgb(31, 27, 27);
+  color: rgb(231, 231, 231);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -44,7 +44,7 @@ li a:hover {
   position: relative;
   width: 100%;
   height: 100vh;
-  background-image: url(../drift-3642769_640.jpg);
+  background-image: url(../kawasan-bundaran-hi-2_169.jpeg);
   background-size: cover;
   background-position: center;
   display: flex;
@@ -60,19 +60,19 @@ li a:hover {
   position: absolute;
   right: 0;
   top: 0;
-  background-color: rgba(0, 0, 0, 0.774);
+  background-color: rgba(207, 197, 197, 0.068);
 }
 .utama{
   position: relative;
   z-index: 1;
 }
 .content h1{
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   font-size: 60px;
   margin-bottom: 10px;
 }
 .content p{
-  color: rgb(255, 255, 255);
+  color: rgb(20, 20, 20);
  margin-bottom: 20px;
 }
 .tombol button{
