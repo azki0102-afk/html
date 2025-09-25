@@ -1,0 +1,31 @@
+h1{
+  background-color: blue;
+  color: red;
+}
+
+p{
+  background-color: gray;
+  color: black;
+  padding: 20px;
+  margin: 15px;
+}
+
+div{
+  width: 200px;
+  background-color: green;
+  margin: auto;
+  padding: 10px;
+}
+
+button{
+background-color: rgb(255, 124, 2);
+color: rgb(255, 255, 255);
+padding: 8px;
+padding: 16px;
+}
+
+#kirim:hover{
+  background-color: red;
+}
+
+
