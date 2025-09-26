@@ -1,0 +1,16 @@
+div {
+  background: #020024;
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  -webkit-background: text;
+  -webkit-text-fill-color: rgb(196, 196, 196);
+}
+
+body{
+    background-image: url(../pertemuan-empat/dxmgmhovoaayrw6-e1520352853593.webp);
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,28 @@
+h1 {
+  padding-left: 90px;
+}
+
+p {
+  padding-left: 90px;
+}
+
+button {
+  background-color: green;
+  color: white;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-left: 80px;
+  border-radius: 4px;
+  margin-right: 50px;
+  padding-top: 17px;
+  padding-bottom: 17px;
+}
+
+body {
+  background-image: url(./Rectangle\ 2.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
