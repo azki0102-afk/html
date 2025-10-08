@@ -1,0 +1,44 @@
+.item {
+  background-color: green;
+  color: white;
+  height: 50px;
+  width: 20%;
+  margin-right: 20px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  background-color: aquamarine;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+}
+
+.initial-scale {
+  background-color: green;
+  color: white;
+  height: 50px;
+  width: 20%;
+  margin-right: 20px;
+}
+
+.container-one {
+  display: flex;
+  flex-direction: row;
+  background-color: aquamarine;
+}
+
+.container-two {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(65, 0, 245);
+}

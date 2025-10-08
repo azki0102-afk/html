@@ -1,0 +1,20 @@
+.container {
+  width: 582px;
+  height: 351px;
+  justify-content: top;
+  align-items: center;
+}
+
+img {
+  justify-content: top;
+  align-items: 715px;
+}
+
+button {
+  border-radius: 4px;
+  background-color: red;
+  color: white;
+  width: 150px;
+  height: 44px;
+  justify-content: top;
+}

@@ -1,0 +1,20 @@
+.box1 {
+  width: 536px;
+  height: 279px;
+  padding-left: 96px;
+  padding-top: 153px;
+  margin-right: 90px;
+  margin-left: 9%;
+}
+
+.ontainer {
+  width:532.25px;
+  height: 574.23px;
+  margin-left: 747px;
+  display: flex;
+  background-color: rgb(172, 109, 130);
+  justify-content: center;
+  flex-direction: row;
+  margin-right: 8%;
+
+}

@@ -1,0 +1,21 @@
+
+body{
+    background-color: green;
+}
+
+.container-1{
+    height: 100vh;
+    background-color: blue;
+    display: flex;
+    flex-direction: row
+    align-items: flex-end;
+}
+
+
+.container-2{
+    height: 100vh;
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+}

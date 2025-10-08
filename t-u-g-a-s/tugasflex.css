@@ -1,0 +1,20 @@
+.container{
+ 
+  display: row;
+  flex-direction: column;
+}
+
+.container-2{
+ 
+  display: row;
+  flex-direction: column;
+}
+
+
+.div {
+  background-color: blue;
+}
+
+.body{
+  background-image: url(../t-u-g-a-s/istockphoto-1472004675-612x612.jpg);
+}
